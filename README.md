@@ -1,0 +1,1 @@
+A Python script designed to find the exact solution of a given initial value problem and to construct a corresponding approximation of the given problem using Euler’s, Improved Euler’s, and Runge-Kutta methods. Then to compare the findings and errors to decide which approximation is the most accurate.
